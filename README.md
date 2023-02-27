@@ -2,7 +2,7 @@ The start of a project and app to make learning and teaching physics more intera
 
 ![Physics at Home logo](https://github.com/ElderINTERalliance/Physics-At-Home/raw/main/logo.png)
 
-#Physics @ Home
+#Physics At Home
 
 This was our 2023 Techolympics Showcase project. The program was written to run in Love2D, a cross-platform game framework that uses the coding language Lua.
 To run this project, either wait for an official packaged release or open the main.lua in Love2D.
