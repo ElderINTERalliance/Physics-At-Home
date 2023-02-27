@@ -1,4 +1,4 @@
-#Physics At Home
+#Physics-At-Home
 The start of a project and app to make learning and teaching physics more interactive and easier, all from the comfort of your own home pc (or I guess wherever else you want to be :P )
 
 ![Physics at Home logo](https://github.com/ElderINTERalliance/Physics-At-Home/raw/main/logo.png)
